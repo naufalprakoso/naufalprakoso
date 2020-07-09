@@ -7,4 +7,4 @@ Kotlin/Java, Jetpack, Architecture Pattern, and Design Pattern. I was attended G
 - LinkedIn: [naufal-prakoso](https://www.linkedin.com/in/naufal-prakoso/)
 - Facebook: [Naufal Prakoso](https://www.facebook.com/naufal.prakoso.3/)
 
-Also, you can see my full portfolio in my [website](https://naufalprakoso.com/)
+You can see my full portfolio in my [website](https://naufalprakoso.com/)
