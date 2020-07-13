@@ -1,10 +1,14 @@
-### Hi there 👋
+<h2> Hi, I'm Naufal Prakoso! <img src="https://art.pixilart.com/b163c360b05cfd8.gif" width="50"></h2>
+<img align='right' src="https://i.ibb.co/7grN3cM/Prakoso-BG-White.png" width="230">
 
-I am M. Naufal. F. Prakoso. I am an Associate Android Developer. I have experienced with Android App Development using
-Kotlin/Java, Jetpack, Architecture Pattern, and Design Pattern. I was attended Google I/O 2019 in Mountain View through Google invitation to represent the Developer Student Clubs Indonesia.
+[![Linkedin: Naufal Prakoso](https://img.shields.io/badge/-naufalprakoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naufal-prakoso/)](https://www.linkedin.com/in/naufal-prakoso/)
+[![GitHub Naufal Prakoso](https://img.shields.io/github/followers/naufalprakoso?label=follow&style=social)](https://github.com/naufalprakoso)
 
-📫 You can reach me on:
-- LinkedIn: [naufal-prakoso](https://www.linkedin.com/in/naufal-prakoso/)
-- Facebook: [Naufal Prakoso](https://www.facebook.com/naufal.prakoso.3/)
+### <img src="https://lh3.googleusercontent.com/proxy/KZXirUpHe31nAqR25N_JJpzzJtkD69zSP8qxBuVPVj1mDK25I8y-oal58WDkLn9FQNpxryxKd5XUng_j5i1TND0ummHYRxnfzbqWxsVis_q41Xo" width="50"> A little more about me...  
 
-You can see my full portfolio in my [website](https://naufalprakoso.com/)
+> I am an Associate Android Developer. 
+I have experienced with Android App Development using Kotlin/Java, Jetpack, Architecture Pattern, and Design Pattern. 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
