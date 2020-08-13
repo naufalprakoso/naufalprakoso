@@ -9,6 +9,8 @@ Experiences:
   - [Kotlin Android Developer Expert](https://www.dicoding.com/academies/55)
   - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14)
 - [Developer Student Clubs](https://developers.google.com/community/dsc) Lead (2017 - 2019)
+- Android and Web Freelancer at [Pandawa Software](http://pandawasoftware.com/)
+- Web Developer at [Kampung Dongeng Indonesia](http://kampungdongeng.com/) (2017 - Present)
 - Subject Coordinator at Bina Nusantara University (2018 - 2019)
 - Teaching Assistant at Bina Nusantara University (2017 - 2018)
 - Android Facilitator at Indonesia Android Kejar (2017)
