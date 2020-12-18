@@ -18,13 +18,3 @@ Apart from that, I also Ex-Lead at [Developer Student Clubs Indonesia](https://d
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-
-## Stats:
-
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naufalprakoso">
-
-## Languages & Frameworks:
-- Android (Java/Kotlin)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
-- Web (Laravel, React)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/><img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg"/>
