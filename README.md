@@ -1,8 +1,8 @@
 <h2> Hi, I'm Naufal Prakoso!</h2> 
 
-I am an [Android Developer](https://www.credential.net/jqd2e3xd?key=b8478c4eb71bfe66a4ed61ab09e9ec0edb0f4a33b9eb13ed06e53055a11a6241). Currently working as an Software Engineer Android at GoTo Financial - Moka. I have experienced with Android App Development using Kotlin/Java, Jetpack, Architecture Pattern, and Design Pattern.
+I specialize in [Android development (Kotlin and Java)](https://www.credential.net/jqd2e3xd?key=b8478c4eb71bfe66a4ed61ab09e9ec0edb0f4a33b9eb13ed06e53055a11a6241) and can also work with PHP (Laravel) and Node.js (Express.js). Currently working as a Senior Android Developer at RTS. I have experience with Android App Development using Kotlin/Java, Jetpack, Architecture Pattern, and Design Pattern.
 
-Apart from that, I also Ex-Lead at [Developer Student Clubs Indonesia](https://developers.google.com/community/dsc).
+Apart from that, I am also an Ex-Lead at [Developer Student Clubs Indonesia](https://developers.google.com/community/dsc).
 
 <p align='center'>
 <a href="https://naufalprakoso.com/">
