@@ -1,6 +1,6 @@
 <h2> Hi, I'm Naufal Prakoso!</h2> 
 
-I specialize in [Android development (Kotlin and Java)](https://www.credential.net/jqd2e3xd?key=b8478c4eb71bfe66a4ed61ab09e9ec0edb0f4a33b9eb13ed06e53055a11a6241) and have experience working with PHP (Laravel) and Node.js (Express.js). I am currently employed as a Senior Android Developer. I began coding in 2015 during my time at Vocational High School, as documented on [my blog](http://naufalprakoso.blogspot.com/2017/08/menjadi-fasilitator-di-indonesia.html). However, I possess over 4 years of professional experience in Android app development using Kotlin, Java, Jetpack, various architecture patterns, and design patterns. 
+I specialize in [Android development (Kotlin and Java)](https://www.credential.net/jqd2e3xd?key=b8478c4eb71bfe66a4ed61ab09e9ec0edb0f4a33b9eb13ed06e53055a11a6241) and have experience working with PHP (Laravel) and Node.js (Express.js). I am currently employed as a Senior Android Developer. I possess over 4 years of professional experience in Android app development using Kotlin, Java, Jetpack, various architecture patterns, and design patterns. 
 
 Apart from that, I am also an Ex-Lead at [Developer Student Clubs Indonesia 2017 - 2019](https://developers.google.com/community/dsc).
 
