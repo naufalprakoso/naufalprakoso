@@ -41,8 +41,6 @@ I'm a **Mobile Developer** specializing in **cross-platform and native mobile ap
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalprakoso&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalprakoso&layout=compact&theme=radical&hide_border=true)
 
